@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-File: auto_sign.py(森空岛签到)
+File: ql.py(森空岛签到)
 Author: Zerolouis
 cron: 0 30 8 * * *
 new Env('森空岛签到');
